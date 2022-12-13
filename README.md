@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is **Jess**. I'm a CGI pipeline developer by trade, but I also enjoy making little games and strange tools!
+
+My professional experience is largely in Python but I work on my own time on learning and developing in languages like C# and Javascript. I have a passion for good docs and dev team organization, and my favorite problems involve systems and understanding ecosystems. I really enjoy experimenting with indie tools, like Ink and Bitsy. My educational background is in game art, where I learned that I like building systems and mechanics a little bit more.
+
+I also enjoy narrative design, writing, digital art and comics, and reading all kinds of exploratory nonfiction. 🌱
 
 <!--
 **jes-so/jes-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
